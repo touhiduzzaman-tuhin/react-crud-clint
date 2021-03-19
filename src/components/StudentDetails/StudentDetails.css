@@ -1,0 +1,8 @@
+.student-details-area{
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
